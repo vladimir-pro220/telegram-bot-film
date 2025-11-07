@@ -1,0 +1,1311 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "Black Panther",
+      "year": 2018,
+      "description": "T'Challa retourne à Wakanda pour prendre sa place de roi après la mort de son père.",
+      "genre": "Action, Aventure",
+      "duration": "2h14m",
+      "price": 2000,
+      "cover_url": "https://example.com/covers/black_panther.jpg",
+      "download_link": "https://.google.com/uc?export=download&id=1-XiK-TZHy7lzX3veTCpL4uf_GouYhJv5"
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "description": "Un voleur qui entre dans les rêves des autres doit implanter une idée dans l'esprit d'un PDG.",
+      "genre": "Sci-Fi, Thriller",
+      "duration": "2h28m",
+      "price": 1500,
+      "cover_url": "https://example.com/covers/inception.jpg",
+      "download_link": "https://drive.google.com/uc?export=download&id=1etSBtN-8nYj4YWNmPJbvjPKEmAVIjaRY"
+    },
+    {
+      "id": 3,
+      "title": "The Dark Knight",
+      "year": 2008,
+      "description": "Batman affronte le chaos provoqué par le Joker à Gotham City.",
+      "genre": "Action, Crime",
+      "duration": "2h32m",
+      "price": 1800,
+      "cover_url": "https://example.com/covers/dark_knight.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Avengers: Endgame",
+      "year": 2019,
+      "description": "Les Avengers tentent de restaurer l'univers après le claquement de doigts de Thanos.",
+      "genre": "Action, Aventure",
+      "duration": "3h01m",
+      "price": 2500,
+      "cover_url": "https://example.com/covers/endgame.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Parasite",
+      "year": 2019,
+      "description": "Une famille pauvre s'infiltre dans une riche maison en se faisant passer pour des employés qualifiés.",
+      "genre": "Thriller, Drame",
+      "duration": "2h12m",
+      "price": 1200,
+      "cover_url": "https://example.com/covers/parasite.jpg"
+    },
+    {
+      "id": 6,
+      "title": "The Shawshank Redemption",
+      "year": 1994,
+      "description": "Un banquier condamné à vie trouve l'espoir grâce à son amitié avec un autre prisonnier.",
+      "genre": "Drame",
+      "duration": "2h22m",
+      "price": 1000,
+      "cover_url": "https://example.com/covers/shawshank.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pulp Fiction",
+      "year": 1994,
+      "description": "Histoires entrelacées de gangsters, boxeurs et tueurs à gages à Los Angeles.",
+      "genre": "Crime, Drame",
+      "duration": "2h34m",
+      "price": 1300,
+      "cover_url": "https://example.com/covers/pulp_fiction.jpg"
+    },
+    {
+      "id": 8,
+      "title": "The Godfather",
+      "year": 1972,
+      "description": "Le patriarche d'une famille mafieuse transmet le contrôle à son fils réticent.",
+      "genre": "Crime, Drame",
+      "duration": "2h55m",
+      "price": 1100,
+      "cover_url": "https://example.com/covers/godfather.jpg"
+    },
+    {
+      "id": 9,
+      "title": "Interstellar",
+      "year": 2014,
+      "description": "Une équipe d'explorateurs voyage à travers un trou de ver pour sauver l'humanité.",
+      "genre": "Sci-Fi, Aventure",
+      "duration": "2h49m",
+      "price": 1900,
+      "cover_url": "https://example.com/covers/interstellar.jpg"
+    },
+    {
+      "id": 10,
+      "title": "The Matrix",
+      "year": 1999,
+      "description": "Un hacker découvre que la réalité est une simulation contrôlée par des machines intelligentes.",
+      "genre": "Sci-Fi, Action",
+      "duration": "2h16m",
+      "price": 1400,
+      "cover_url": "https://example.com/covers/matrix.jpg"
+    },
+    {
+      "id": 11,
+      "title": "Gladiator",
+      "year": 2000,
+      "description": "Un général romain déchu devient gladiateur pour venger sa famille assassinée.",
+      "genre": "Action, Drame",
+      "duration": "2h35m",
+      "price": 1600,
+      "cover_url": "https://example.com/covers/gladiator.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Titanic",
+      "year": 1997,
+      "description": "Une histoire d'amour entre une aristocrate et un artiste pauvre à bord du RMS Titanic.",
+      "genre": "Drame, Romance",
+      "duration": "3h14m",
+      "price": 1700,
+      "cover_url": "https://example.com/covers/titanic.jpg"
+    },
+    {
+      "id": 13,
+      "title": "Forrest Gump",
+      "year": 1994,
+      "description": "L'histoire d'un homme au QI limité qui vit des événements historiques extraordinaires.",
+      "genre": "Drame, Romance",
+      "duration": "2h22m",
+      "price": 1200,
+      "cover_url": "https://example.com/covers/forrest_gump.jpg"
+    },
+    {
+      "id": 14,
+      "title": "The Lion King",
+      "year": 1994,
+      "description": "Un jeune lion prince fuit son royaume après le meurtre de son père.",
+      "genre": "Animation, Aventure",
+      "duration": "1h28m",
+      "price": 900,
+      "cover_url": "https://example.com/covers/lion_king.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Jurassic Park",
+      "year": 1993,
+      "description": "Des scientifiques créent un parc d'attractions avec des dinosaures clonés.",
+      "genre": "Aventure, Sci-Fi",
+      "duration": "2h07m",
+      "price": 1300,
+      "cover_url": "https://example.com/covers/jurassic_park.jpg"
+    },
+    {
+      "id": 16,
+      "title": "Dune",
+      "year": 2021,
+      "description": "Paul Atreides se rend sur la planète Arrakis pour assurer l'avenir de sa famille et de son peuple.",
+      "genre": "Sci-Fi, Aventure",
+      "duration": "2h35m",
+      "price": 2200,
+      "cover_url": "https://example.com/covers/dune.jpg"
+    },
+    {
+      "id": 17,
+      "title": "The Batman",
+      "year": 2022,
+      "description": "Batman enquête sur la corruption à Gotham City et affronte le Riddler.",
+      "genre": "Action, Crime",
+      "duration": "2h56m",
+      "price": 2100,
+      "cover_url": "https://example.com/covers/the_batman.jpg"
+    },
+    {
+      "id": 18,
+      "title": "La La Land",
+      "year": 2016,
+      "description": "Une histoire d'amour entre un pianiste de jazz et une actrice en herbe à Los Angeles.",
+      "genre": "Drame, Romance",
+      "duration": "2h08m",
+      "price": 1500,
+      "cover_url": "https://example.com/covers/la_la_land.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Joker",
+      "year": 2019,
+      "description": "L'histoire originelle de la transformation d'Arthur Fleck en Joker.",
+      "genre": "Crime, Drame",
+      "duration": "2h02m",
+      "price": 1800,
+      "cover_url": "https://example.com/covers/joker.jpg"
+    },
+    {
+      "id": 20,
+      "title": "Mad Max: Fury Road",
+      "year": 2015,
+      "description": "Max et Furiosa fuient à travers le désert poursuivis par le seigneur de guerre Immortan Joe.",
+      "genre": "Action, Aventure",
+      "duration": "2h00m",
+      "price": 1700,
+      "cover_url": "https://example.com/covers/mad_max.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Whiplash",
+      "year": 2014,
+      "description": "Un jeune batteur de jazz s'efforce de réussir sous la direction d'un instructeur impitoyable.",
+      "genre": "Drame, Musique",
+      "duration": "1h46m",
+      "price": 1300,
+      "cover_url": "https://example.com/covers/whiplash.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Get Out",
+      "year": 2017,
+      "description": "Un jeune Afro-Américain découvre un secret terrifiant lors de sa visite chez sa petite amie.",
+      "genre": "Horreur, Thriller",
+      "duration": "1h44m",
+      "price": 1400,
+      "cover_url": "https://example.com/covers/get_out.jpg"
+    },
+    {
+      "id": 23,
+      "title": "The Social Network",
+      "year": 2010,
+      "description": "L'histoire de la création de Facebook et des conflits qui ont suivi.",
+      "genre": "Drame, Biographie",
+      "duration": "2h00m",
+      "price": 1200,
+      "cover_url": "https://example.com/covers/social_network.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Django Unchained",
+      "year": 2012,
+      "description": "Un ancien esclave et un chasseur de primes allemand poursuivent des criminels dans le Sud.",
+      "genre": "Western, Drame",
+      "duration": "2h45m",
+      "price": 1600,
+      "cover_url": "https://example.com/covers/django.jpg"
+    },
+    {
+      "id": 25,
+      "title": "The Revenant",
+      "year": 2015,
+      "description": "Un trappeur laissé pour mort cherche à se venger de ceux qui l'ont trahi.",
+      "genre": "Aventure, Drame",
+      "duration": "2h36m",
+      "price": 1700,
+      "cover_url": "https://example.com/covers/revenant.jpg"
+    }
+  ],
+  "series": [
+    {
+      "id": 101,
+      "title": "Game of Thrones",
+      "year": 2011,
+      "description": "Des familles nobles se battent pour le contrôle du Trône de Fer dans un royaume fantastique.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10101,
+              "title": "L'hiver vient",
+              "description": "La famille Stark découvre un mystère au-delà du Mur.",
+              "duration": "62m",
+              "price": 800
+            },
+            {
+              "id": 10102,
+              "title": "La Route royale",
+              "description": "Eddard enquête sur la mort de son prédécesseur.",
+              "duration": "56m",
+              "price": 800
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10201,
+              "title": "Le Nord se souvient",
+              "description": "Tyrion arrive à Port-Réal pour conseiller Joffrey.",
+              "duration": "58m",
+              "price": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "title": "Breaking Bad",
+      "year": 2008,
+      "description": "Un professeur de chimie atteint d'un cancer se lance dans la fabrication de méthamphétamine.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10201,
+              "title": "Pilot",
+              "description": "Walter White fait équipe avec Jesse pour cuisiner de la meth.",
+              "duration": "58m",
+              "price": 700
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "title": "Stranger Things",
+      "year": 2016,
+      "description": "Des enfants affrontent des forces surnaturelles dans une petite ville des années 80.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10301,
+              "title": "Chapter One: The Vanishing of Will Byers",
+              "description": "Un garçon disparaît dans des circonstances mystérieuses.",
+              "duration": "48m",
+              "price": 750
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 104,
+      "title": "The Crown",
+      "year": 2016,
+      "description": "La vie du règne de la reine Elizabeth II et les événements qui ont façonné la seconde moitié du XXe siècle.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10401,
+              "title": "Wolferton Splash",
+              "description": "Le mariage et le début du règne de la reine Elizabeth II.",
+              "duration": "58m",
+              "price": 850
+            },
+            {
+              "id": 10402,
+              "title": "Hyde Park Corner",
+              "description": "Le roi George VI meurt et Elizabeth devient reine.",
+              "duration": "57m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10403,
+              "title": "Misadventure",
+              "description": "La reine doit faire face à une crise personnelle et politique.",
+              "duration": "56m",
+              "price": 850
+            },
+            {
+              "id": 10404,
+              "title": "A Company of Men",
+              "description": "Philip s'embarque dans une tournée royale de cinq mois.",
+              "duration": "58m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 105,
+      "title": "The Mandalorian",
+      "year": 2019,
+      "description": "Les aventures d'un chasseur de primes mandalorien dans la galaxie Star Wars.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10501,
+              "title": "Chapter 1: The Mandalorian",
+              "description": "Un chasseur de primes mandalorien accepte une mission lucrative.",
+              "duration": "39m",
+              "price": 900
+            },
+            {
+              "id": 10502,
+              "title": "Chapter 2: The Child",
+              "description": "Le Mandalorien doit protéger l'Enfant des dangers.",
+              "duration": "32m",
+              "price": 900
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10503,
+              "title": "Chapter 9: The Marshal",
+              "description": "Le Mandalorien cherche d'autres Mandaloriens pour l'aider.",
+              "duration": "52m",
+              "price": 900
+            },
+            {
+              "id": 10504,
+              "title": "Chapter 10: The Passenger",
+              "description": "Le Mandalorien transporte un passager mystérieux.",
+              "duration": "48m",
+              "price": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "title": "The Witcher",
+      "year": 2019,
+      "description": "Geralt de Riv, un chasseur de monstres mutant, lutte pour trouver sa place dans un monde où les humains sont souvent plus méchants que les bêtes.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10601,
+              "title": "The End's Beginning",
+              "description": "Geralt se retrouve au mauvais endroit au mauvais moment.",
+              "duration": "61m",
+              "price": 850
+            },
+            {
+              "id": 10602,
+              "title": "Four Marks",
+              "description": "Geralt aide une princesse maudite tandis que Yennefer s'adapte à la vie à la cour.",
+              "duration": "63m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10603,
+              "title": "A Grain of Truth",
+              "description": "Geralt et Ciri cherchent refuge chez un vieil ami.",
+              "duration": "60m",
+              "price": 850
+            },
+            {
+              "id": 10604,
+              "title": "Kaer Morhen",
+              "description": "Geralt emmène Ciri à Kaer Morhen pour la protéger.",
+              "duration": "58m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "title": "The Boys",
+      "year": 2019,
+      "description": "Une équipe de justiciers combat des super-héros corrompus qui abusent de leurs pouvoirs.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10701,
+              "title": "The Name of the Game",
+              "description": "Hughie rejoint Billy Butcher après une tragédie personnelle.",
+              "duration": "65m",
+              "price": 950
+            },
+            {
+              "id": 10702,
+              "title": "Cherry",
+              "description": "Les Boys infiltrent un festival de musique pour enquêter sur un Supe.",
+              "duration": "57m",
+              "price": 950
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10703,
+              "title": "The Big Ride",
+              "description": "Les Boys cherchent un refuge sûr tandis que Starlight fait face à de nouvelles exigences.",
+              "duration": "63m",
+              "price": 950
+            },
+            {
+              "id": 10704,
+              "title": "Nothing Like It in the World",
+              "description": "Butcher retrouve un allié improbable tandis que Hughie s'inquiète pour Starlight.",
+              "duration": "59m",
+              "price": 950
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "title": "Money Heist",
+      "year": 2017,
+      "description": "Huit voleurs prennent en otage des personnes à la Maison royale de la Monnaie d'Espagne.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10801,
+              "title": "Efectuar lo acordado",
+              "description": "Le Professeur recrute une équipe pour le cambriolage du siècle.",
+              "duration": "67m",
+              "price": 800
+            },
+            {
+              "id": 10802,
+              "title": "Imprudencias letales",
+              "description": "Des tensions apparaissent dans l'équipe tandis que la police cerne le bâtiment.",
+              "duration": "70m",
+              "price": 800
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10803,
+              "title": "Lecciones de anatomía",
+              "description": "Le plan du Professeur est mis à l'épreuve lorsque la police avance.",
+              "duration": "65m",
+              "price": 800
+            },
+            {
+              "id": 10804,
+              "title": "Caballo de Troya",
+              "description": "La police tente d'infiltrer la Monnaie avec un agent sous couverture.",
+              "duration": "68m",
+              "price": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "title": "Dark",
+      "year": 2017,
+      "description": "La disparition de deux jeunes enfants révèle les relations entre quatre familles et un voyage dans le temps qui couvre trois générations.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 10901,
+              "title": "Secrets",
+              "description": "En 2019, la disparition d'un garçon local rappelle des événements passés.",
+              "duration": "51m",
+              "price": 850
+            },
+            {
+              "id": 10902,
+              "title": "Lies",
+              "description": "Ulrich questionne une travailleuse sociale étrange.",
+              "duration": "44m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 10903,
+              "title": "Beginnings and Endings",
+              "description": "Six mois après la disparition, un étranger arrive en ville.",
+              "duration": "58m",
+              "price": 850
+            },
+            {
+              "id": 10904,
+              "title": "The Travelers",
+              "description": "Claudia découvre une vérité troublante sur la centrale nucléaire.",
+              "duration": "55m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "title": "The Office (US)",
+      "year": 2005,
+      "description": "La vie quotidienne des employés de bureau à Dunder Mifflin Paper Company à Scranton, en Pennsylvanie.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11001,
+              "title": "Pilot",
+              "description": "Un documentaire suit Michael Scott et ses employés.",
+              "duration": "23m",
+              "price": 600
+            },
+            {
+              "id": 11002,
+              "title": "Diversity Day",
+              "description": "Michael organise un séminaire sur la diversité après une blague raciste.",
+              "duration": "22m",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11003,
+              "title": "The Dundies",
+              "description": "Michael organise sa cérémonie annuelle de récompenses.",
+              "duration": "22m",
+              "price": 600
+            },
+            {
+              "id": 11004,
+              "title": "Sexual Harassment",
+              "description": "Michael doit donner une formation sur le harcèlement sexuel.",
+              "duration": "21m",
+              "price": 600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 111,
+      "title": "Friends",
+      "year": 1994,
+      "description": "Suit les vies personnelles et professionnelles de six amis vivant à Manhattan.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11101,
+              "title": "The One Where It All Began",
+              "description": "Rachel quitte son fiancé à l'autel et retrouve son amie Monica.",
+              "duration": "23m",
+              "price": 550
+            },
+            {
+              "id": 11102,
+              "title": "The One with the Sonogram at the End",
+              "description": "Ross découvre que son ex-femme est enceinte de lui.",
+              "duration": "22m",
+              "price": 550
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11103,
+              "title": "The One with Ross's New Girlfriend",
+              "description": "Ross retourne avec une nouvelle petite amie, Julie.",
+              "duration": "22m",
+              "price": 550
+            },
+            {
+              "id": 11104,
+              "title": "The One with the Breast Milk",
+              "description": "Carol allaite Ben, ce qui dégoûte Ross.",
+              "duration": "22m",
+              "price": 550
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 112,
+      "title": "The Big Bang Theory",
+      "year": 2007,
+      "description": "Une femme qui déménage en face de deux physiciens géniaux montre à ces derniers à quel point ils ignorent tout de la vie en dehors du laboratoire.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11201,
+              "title": "Pilot",
+              "description": "Leonard et Sheldon rencontrent leur nouvelle voisine Penny.",
+              "duration": "22m",
+              "price": 600
+            },
+            {
+              "id": 11202,
+              "title": "The Big Bran Hypothesis",
+              "description": "Penny emprunte du sucre à Leonard et Sheldon.",
+              "duration": "21m",
+              "price": 600
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11203,
+              "title": "The Bad Fish Paradigm",
+              "description": "Penny et Leonard ont leur premier rencard officiel.",
+              "duration": "21m",
+              "price": 600
+            },
+            {
+              "id": 11204,
+              "title": "The Codpiece Topology",
+              "description": "Sheldon est contrarié par le nouveau petit ami de sa mère.",
+              "duration": "20m",
+              "price": 600
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 113,
+      "title": "Sherlock",
+      "year": 2010,
+      "description": "Une adaptation moderne des aventures du détective légendaire Sherlock Holmes.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11301,
+              "title": "A Study in Pink",
+              "description": "Sherlock et John se rencontrent et enquêtent sur une série de suicides mystérieux.",
+              "duration": "88m",
+              "price": 950
+            },
+            {
+              "id": 11302,
+              "title": "The Blind Banker",
+              "description": "Sherlock enquête sur un meurtre dans une banque d'affaires.",
+              "duration": "88m",
+              "price": 950
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11303,
+              "title": "A Scandal in Belgravia",
+              "description": "Sherlock affronte Irene Adler, la seule femme à l'avoir jamais impressionné.",
+              "duration": "89m",
+              "price": 950
+            },
+            {
+              "id": 11304,
+              "title": "The Hounds of Baskerville",
+              "description": "Sherlock et John enquêtent sur une bête légendaire qui hante la lande.",
+              "duration": "87m",
+              "price": 950
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "title": "Westworld",
+      "year": 2016,
+      "description": "Dans un parc d'attractions peuplé d'androïdes, des clients riches peuvent vivre leurs fantasmes sans conséquences.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11401,
+              "title": "The Original",
+              "description": "Les visiteurs arrivent à Westworld, un parc d'attractions peuplé d'androïdes.",
+              "duration": "68m",
+              "price": 900
+            },
+            {
+              "id": 11402,
+              "title": "Chestnut",
+              "description": "Un homme et sa belle-sœur visitent Westworld.",
+              "duration": "60m",
+              "price": 900
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11403,
+              "title": "Journey Into Night",
+              "description": "Les hôtes commencent à se révolter contre les humains.",
+              "duration": "72m",
+              "price": 900
+            },
+            {
+              "id": 11404,
+              "title": "Reunion",
+              "description": "Dolores rencontre un vieil ami et apprend la vérité sur son passé.",
+              "duration": "58m",
+              "price": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "title": "Narcos",
+      "year": 2015,
+      "description": "L'histoire vraie de la montée et de la chute du cartel de la drogue de Medellín et de Pablo Escobar.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11501,
+              "title": "Descenso",
+              "description": "L'agent de la DEA Steve Murphy arrive en Colombie pour traquer Pablo Escobar.",
+              "duration": "49m",
+              "price": 850
+            },
+            {
+              "id": 11502,
+              "title": "The Sword of Simón Bolívar",
+              "description": "Murphy et Peña apprennent comment Escobar a construit son empire.",
+              "duration": "52m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11503,
+              "title": "The Kingpin Strategy",
+              "description": "Escobar se rend et est emprisonné dans sa prison sur mesure.",
+              "duration": "51m",
+              "price": 850
+            },
+            {
+              "id": 11504,
+              "title": "The Good, the Bad, and the Dead",
+              "description": "Escobar s'évade de prison et déclare la guerre à l'État colombien.",
+              "duration": "48m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "title": "Peaky Blinders",
+      "year": 2013,
+      "description": "Une famille de gangsters britanniques originaire de Birmingham s'élève dans le monde criminel après la Première Guerre mondiale.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11601,
+              "title": "Episode 1",
+              "description": "Thomas Shelby et ses frères planifient l'expansion de leur empire criminel.",
+              "duration": "58m",
+              "price": 850
+            },
+            {
+              "id": 11602,
+              "title": "Episode 2",
+              "description": "Les Peaky Blinders affrontent un gang rival à Londres.",
+              "duration": "55m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11603,
+              "title": "Episode 1",
+              "description": "Tommy étend ses opérations à Londres et affronte de nouveaux ennemis.",
+              "duration": "58m",
+              "price": 850
+            },
+            {
+              "id": 11604,
+              "title": "Episode 2",
+              "description": "Tommy fait face à des défis familiaux et professionnels.",
+              "duration": "56m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "title": "The Handmaid's Tale",
+      "year": 2017,
+      "description": "Dans un futur dystopique, une femme est forcée de vivre comme servante dans un régime théocratique et totalitaire.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11701,
+              "title": "Offred",
+              "description": "June devient Offred, une servante dans la maison du Commandant Waterford.",
+              "duration": "52m",
+              "price": 900
+            },
+            {
+              "id": 11702,
+              "title": "Birth Day",
+              "description": "June assiste à un accouchement dans la maison des Waterford.",
+              "duration": "48m",
+              "price": 900
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11703,
+              "title": "June",
+              "description": "June est emmenée dans un endroit inconnu après avoir tenté de s'échapper.",
+              "duration": "47m",
+              "price": 900
+            },
+            {
+              "id": 11704,
+              "title": "Unwomen",
+              "description": "June est envoyée dans les Colonies pour travailler.",
+              "duration": "52m",
+              "price": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 118,
+      "title": "The Umbrella Academy",
+      "year": 2019,
+      "description": "Une famille de super-héros dysfonctionnels se réunit pour résoudre le mystère de la mort de leur père.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11801,
+              "title": "We Only See Each Other at Weddings and Funerals",
+              "description": "Les membres de l'Académie Umbrella se réunissent pour les funérailles de leur père.",
+              "duration": "60m",
+              "price": 850
+            },
+            {
+              "id": 11802,
+              "title": "Run Boy Run",
+              "description": "Les frères et sœurs enquêtent sur la mort de leur père.",
+              "duration": "51m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 11803,
+              "title": "Right Back Where We Started",
+              "description": "La famille arrive à des moments différents dans les années 1960.",
+              "duration": "48m",
+              "price": 850
+            },
+            {
+              "id": 11804,
+              "title": "The Frankel Footage",
+              "description": "Luther cherche ses frères et sœurs tandis que Five traque les assassins.",
+              "duration": "50m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 119,
+      "title": "Chernobyl",
+      "year": 2019,
+      "description": "La dramatisation de la véritable histoire de la catastrophe nucléaire de 1986 et des sacrifices qui ont été faits pour sauver l'Europe.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 11901,
+              "title": "1:23:45",
+              "description": "L'explosion du réacteur à la centrale nucléaire de Chernobyl.",
+              "duration": "67m",
+              "price": 950
+            },
+            {
+              "id": 11902,
+              "title": "Please Remain Calm",
+              "description": "Les autorités soviétiques luttent pour faire face à la catastrophe.",
+              "duration": "65m",
+              "price": 950
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "title": "The Queen's Gambit",
+      "year": 2020,
+      "description": "Une prodige des échecs lutte contre la dépendance tout en tentant de devenir la plus grande joueuse d'échecs du monde.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12001,
+              "title": "Openings",
+              "description": "Une jeune orpheline découvre son talent extraordinaire pour les échecs.",
+              "duration": "62m",
+              "price": 900
+            },
+            {
+              "id": 12002,
+              "title": "Exchanges",
+              "description": "Beth participe à son premier tournoi d'échecs.",
+              "duration": "59m",
+              "price": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "title": "The Walking Dead",
+      "year": 2010,
+      "description": "Un shérif adjoint se réveille d'un coma pour découvrir un monde ravagé par des zombies.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12101,
+              "title": "Days Gone Bye",
+              "description": "Rick se réveille d'un coma dans un monde ravagé par des zombies.",
+              "duration": "67m",
+              "price": 850
+            },
+            {
+              "id": 12102,
+              "title": "Guts",
+              "description": "Rick et un groupe de survivants tentent d'échapper à Atlanta.",
+              "duration": "44m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 12103,
+              "title": "What Lies Ahead",
+              "description": "Le groupe cherche un refuge sûr après avoir quitté Atlanta.",
+              "duration": "58m",
+              "price": 850
+            },
+            {
+              "id": 12104,
+              "title": "Bloodletting",
+              "description": "Rick et Shane cherchent des médicaments pour soigner Carl.",
+              "duration": "45m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "title": "Better Call Saul",
+      "year": 2015,
+      "description": "L'histoire de l'avocat peu scrupuleux Jimmy McGill avant qu'il ne devienne Saul Goodman.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12201,
+              "title": "Uno",
+              "description": "Jimmy McGill tente de relancer sa carrière d'avocat.",
+              "duration": "57m",
+              "price": 850
+            },
+            {
+              "id": 12202,
+              "title": "Mijo",
+              "description": "Jimmy fait face aux conséquences de son implication avec les frères Salamanca.",
+              "duration": "47m",
+              "price": 850
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 12203,
+              "title": "Switch",
+              "description": "Jimmy explore de nouvelles opportunités professionnelles.",
+              "duration": "47m",
+              "price": 850
+            },
+            {
+              "id": 12204,
+              "title": "Cobbler",
+              "description": "Jimmy fait face à un dilemme éthique dans une affaire.",
+              "duration": "48m",
+              "price": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "title": "House of Cards",
+      "year": 2013,
+      "description": "Un politicien impitoyable et son épouse ambitieuse manœuvrent pour accéder au pouvoir à Washington.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12301,
+              "title": "Chapter 1",
+              "description": "Frank Underwood se voit refuser le poste de Secrétaire d'État.",
+              "duration": "51m",
+              "price": 900
+            },
+            {
+              "id": 12302,
+              "title": "Chapter 2",
+              "description": "Frank commence à mettre en œuvre son plan de vengeance.",
+              "duration": "49m",
+              "price": 900
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 12303,
+              "title": "Chapter 14",
+              "description": "Frank poursuit son ascension vers le pouvoir.",
+              "duration": "48m",
+              "price": 900
+            },
+            {
+              "id": 12304,
+              "title": "Chapter 15",
+              "description": "Frank affronte de nouveaux défis dans sa quête de pouvoir.",
+              "duration": "52m",
+              "price": 900
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "title": "Dexter",
+      "year": 2006,
+      "description": "Un expert médico-légal de la police tue des criminels qui ont échappé à la justice.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12401,
+              "title": "Dexter",
+              "description": "Dexter Morgan, tueur en série qui travaille pour la police, traque un autre tueur.",
+              "duration": "53m",
+              "price": 800
+            },
+            {
+              "id": 12402,
+              "title": "Crocodile",
+              "description": "Dexter enquête sur un meurtre impliquant des enfants.",
+              "duration": "52m",
+              "price": 800
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 12403,
+              "title": "It's Alive!",
+              "description": "La baie de Biscayne est le théâtre de la découverte de corps démembrés.",
+              "duration": "53m",
+              "price": 800
+            },
+            {
+              "id": 12404,
+              "title": "Waiting to Exhale",
+              "description": "Dexter traque le Tueur de la Baie de Biscayne.",
+              "duration": "52m",
+              "price": 800
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 125,
+      "title": "Lost",
+      "year": 2004,
+      "description": "Les survivants d'un crash d'avion sont bloqués sur une île mystérieuse.",
+      "seasons": [
+        {
+          "number": 1,
+          "episodes": [
+            {
+              "id": 12501,
+              "title": "Pilot: Part 1",
+              "description": "Les survivants d'un crash d'avion se réveillent sur une île tropicale.",
+              "duration": "44m",
+              "price": 750
+            },
+            {
+              "id": 12502,
+              "title": "Pilot: Part 2",
+              "description": "Les survivants tentent de capter un signal de détresse.",
+              "duration": "43m",
+              "price": 750
+            }
+          ]
+        },
+        {
+          "number": 2,
+          "episodes": [
+            {
+              "id": 12503,
+              "title": "Man of Science, Man of Faith",
+              "description": "Jack explore le bunker mystérieux découvert à la fin de la saison 1.",
+              "duration": "49m",
+              "price": 750
+            },
+            {
+              "id": 12504,
+              "title": "Adrift",
+              "description": "Michael, Sawyer et Jin dérivent en mer sur un radeau.",
+              "duration": "42m",
+              "price": 750
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
